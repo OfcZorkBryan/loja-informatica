@@ -1,5 +1,7 @@
 # Sistema de Cadastro — Loja de Informática
 
+![Banner anime original em tons suaves](assets/anime-banner.svg)
+
 Projeto de estudo para praticar programação, Git e GitHub com um cadastro simples de uma loja de informática.
 
 ## Organização
